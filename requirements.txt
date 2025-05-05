@@ -1,0 +1,2 @@
+# Required library for PDF manipulation (annotation extraction)
+PyMuPDF>=1.18.0 
