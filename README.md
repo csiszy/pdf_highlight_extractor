@@ -23,10 +23,9 @@ A Python script to extract highlighted text annotations from a PDF file and save
 
 1.  **Clone the repository:**
     ```bash
-    git clone <your-repository-url>
-    cd <your-repository-directory> 
+    git clone https://github.com/csiszy/pdf_highlight_extractor.git
+    cd pdf_highlight_extractor 
     ```
-    (Replace `<your-repository-url>` and `<your-repository-directory>` with your actual repo details)
 
 2.  **Install dependencies:**
     It's recommended to use a virtual environment:
